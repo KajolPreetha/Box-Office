@@ -6,7 +6,7 @@ import Title from './Title'
          <div>
              <Title
                  title="Box Office"
-                 subtitle="Are you looking for amovie or an actor?"
+                 subtitle="Are you looking for a movie or an actor?"
              />
              <Nav />
              {children}
