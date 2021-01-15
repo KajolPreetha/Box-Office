@@ -13,6 +13,8 @@ const Home = () => {
     const [searchOption, setSearchOption] = useState("shows");
     const isShowsSearch = searchOption === "shows";
 
+
+
     const onSearch = () => {
         // http://api.tvmaze.com/search/shows?q=girls
 
